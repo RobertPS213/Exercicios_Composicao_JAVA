@@ -20,5 +20,3 @@ Repositório criado para consolidar o aprendizado em **Programação Orientada a
 
 **05-Mecanica:** Ordem de serviço para oficina, calculando automaticamente o total de peças e mão de obra através de composição.
 
----
-**Robert Pereira Santos** 📍 *Estudante de ADS - UniProjeção (Taguatinga-DF)*
